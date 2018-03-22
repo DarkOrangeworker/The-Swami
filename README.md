@@ -1,5 +1,3 @@
 # The-Swami
 
-第一个自己做的小游戏，挺简单，但还是耗费自己不少的时间！
-
-自己还需要努力呢，一起加油！
+The first one to make a small game, quite simple, but it still takes a lot of time!
